@@ -1,7 +1,7 @@
 const data = {
     products: [{
             name: "Sommertracht",
-            slug: "sommertracht",
+            slug: "Sommertracht",
             kategorie: "honig",
             image: "/images/sommertracht.png",
             preis: 5.99,
@@ -12,7 +12,7 @@ const data = {
         },
         {
             name: "Frühtracht",
-            slug: "frühtracht",
+            slug: "Frühtracht",
             kategorie: "honig",
             image: "/images/fruhtracht.png",
             preis: 5.99,
